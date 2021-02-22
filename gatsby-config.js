@@ -6,8 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
-    title: `WURDS`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `WURDS - all things Scottish & Maybe Canadian!`,
   },
   plugins: [
     {
@@ -27,11 +26,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/wurds_`,
           },
           {
             name: `Instagram`,
-            url: `https://www.instagram.com/lekoarts.de/`,
+            url: `https://www.instagram.com/wurds_/`,
           },
         ],
       },
