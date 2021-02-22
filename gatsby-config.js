@@ -6,6 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
+    title: `WURDS`,
     siteTitleAlt: `Minimal Blog - Gatsby Theme`,
   },
   plugins: [
